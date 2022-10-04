@@ -32,7 +32,6 @@ function App() {
           <Route path="/work" element={<Work />}></Route>
           <Route path="/education" element={<Education />}></Route>
           <Route path="/projects" element={<Jsprojects />}></Route>
-          <Route path="/portfolio" element={<Projects />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="*" element={<PageNotFound />}></Route>
         </Routes>

@@ -51,13 +51,13 @@ const Nav = () => {
           </Link>
           <span className="tooltip">Work</span>
         </li>
-        <li>
+        {/* <li>
           <Link to="/projects">
             <i class="bx bx-task"></i>
             <span className="links_name">Projects</span>
           </Link>
           <span className="tooltip">Projects</span>
-        </li>
+        </li> */}
         <li>
           <Link to="/contact">
             <i className="bx bx-chat"></i>
