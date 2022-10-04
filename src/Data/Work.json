@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "year": "Sep, 2022 - Now",
+        "companyname": "Ominext",
+        "position": "Frontend Developer",
+        "desc": "- Vuejs, vuex, Javascript ES6, Bootstrap, Scss"
+    },
+    {
+        "id": 2,
+        "year": "Oct, 2020 - Aug, 2022",
+        "companyname": "Hybrid Technologies VN",
+        "position": "Fullstack Developer",
+        "desc": "- Nuxtjs, FastAPI, Vuetify, Django, Jquery, Bootstrap, Google Map API, JsPDF, S3, AWS Athena, Mysql, GMO Payment"
+    },
+    {
+        "id": 3,
+        "year": "Jan, 2021 - April, 2021",
+        "companyname": "Freelancer",
+        "position": "Frontend Developer",
+        "desc": "- Reactjs, Redux, Nextjs, Mongodb"
+    }
+]
