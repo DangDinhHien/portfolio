@@ -17,7 +17,7 @@ const Nav = () => {
       </div>
       <ul className="nav-list">
         <li>
-          <Link to="/">
+          <Link to="/portfolio">
             <i className="bx bx-home"></i>
             <span className="links_name">Home</span>
           </Link>
