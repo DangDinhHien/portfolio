@@ -25,8 +25,8 @@ function App() {
       <Nav />
       <div className="main-content">
         <Routes>
-          <Route exact="true" path="/" element={<Home />}></Route>
-          <Route path="/" element={<Home />}></Route>
+          <Route exact="true" path="/portfolio" element={<Home />}></Route>
+          <Route path="/portfolio" element={<Home />}></Route>
           <Route path="/about" element={<About />}></Route>
           <Route path="/skills" element={<Services />}></Route>
           <Route path="/work" element={<Work />}></Route>
